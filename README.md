@@ -1,2 +1,2 @@
 # Machine-learning
-ML Lab DA
+ML Theory DA
